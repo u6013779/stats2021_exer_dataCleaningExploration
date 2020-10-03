@@ -57,17 +57,17 @@ This assignment shows some steps to take to assess data accuracy and identify mi
 ### RStudio part
 
 * In RStudio open the R markdown file (.Rmd) by clicking on it in the Files pane.
-* Complete the steps outlined in the assignment.
+* Complete the steps outlined in the assignment. (See the assignment answer sheet file included in this repository.)
 * Create a markdown (.md) document by clicking the Knit button. Make sure the markdown file gets saved in the same folder as the R markdown file so it will get pushed back to your GitHub repository.
 
 ### Jamovi part
 
 * Open Jamovi
-* Try opening each of the file types (.csv, .sav, .xlsx) in Jamovi.
+* Complete the steps outlined in the assignment. (See the assignment answer sheet file included in this repository.)
 * The file menu looks like 3 horizontal lines at the top left of the Jamovi window.
 * File - Open - Browse
 * Navigate to your assignment folder where the files for this assignment are, select the file, and click Open.
-* Save one of the files you opened as a Jamovi file (.omv).
+* After you complete the steps of the assignment, save a Jamovi file (.omv).
 * File - Save As - Browse
 * Navigate to your assignment folder where the files for this assignment are and click Save.
 * You should now have a .omv file in your assignment folder.
