@@ -31,7 +31,13 @@
 
 ### Data Cleaning and Exploration
 
-Data needs to be examined and any problems fixed before analysis can be done.In statistics, we focus on four areas.
+Data needs to be examined and any problems fixed before analysis can be done. This process of checking data before proceeding with a statistical analysis is often called data cleaning. The steps for data cleaning outlined in this tutorial are discussed in the following videos. You don't need to watch the videos to complete this assignment, but I list them here should you have interest in listening to the original lectures.
+
+* Data screening 1 accuracy (40 min) (optional): https://www.youtube.com/watch?v=_wl5wLEnG7I&t=0s&index=145&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn
+* Data screening 2 missing (37 min) (optional): https://www.youtube.com/watch?v=9a3CW8fKA3k&t=0s&index=147&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn
+* Data screening 3 outliers (22 min) (optional): https://www.youtube.com/watch?v=zL66kiX5VZg&list=PLw93TUuxrFAbWrTsvaDsn7Y32l8LHJJXn&index=148&t=0s
+
+In statistics, we focus on four areas.
 
 1. Data accuracy
     + make sure data types are correct
