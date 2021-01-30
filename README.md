@@ -62,6 +62,7 @@ This assignment shows some steps to take to assess data accuracy and identify mi
 
 ### Jamovi part
 
+* The answer sheet refers to a video which discusses levels of measurement. This may help. https://www.youtube.com/watch?v=7tlvuYO76Ok&feature=youtu.be
 * Open Jamovi
 * Complete the steps outlined in the assignment. (See the assignment answer sheet file included in this repository.)
 * The file menu looks like 3 horizontal lines at the top left of the Jamovi window.
