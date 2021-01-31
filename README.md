@@ -1,4 +1,4 @@
-# Data Cleaning and Exploration Tutorial
+# Data Cleaning and Exploration Exercise
 
 ## Summary of steps to complete
 
