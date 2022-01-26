@@ -57,16 +57,16 @@ dataset <- rio::import("Week1.csv")
 
 You can uncomment the code below to try different ways to examine the dataset in RStudio. (Remove the # sign from one line at a time.)
 ```{r, eval=FALSE}
-# The View() command opens a data tab in RStudio. Notice the eval=FALSE option is set for this block.
-# Don't evaluate blocks which use the View() command when knitting a file. It could be problematic.
+ #The View() command opens a data tab in RStudio. Notice the eval=FALSE option is set for this block.
+#Don't evaluate blocks which use the View() command when knitting a file. It could be problematic.
 View(dataset)
 ```
 
 ```{r}
-# These commands are all different ways to examine the dataset in R.
-# You can uncomment each row and run the code block to try each one out.
+#These commands are all different ways to examine the dataset in R.
+#You can uncomment each row and run the code block to try each one out.
 dplyr::glimpse(dataset) #dplyr is part of the Tidyverse packages
-#str(dataset)
+str(dataset)
 ```
 
 ## Examine the data using the jmv package descriptives
